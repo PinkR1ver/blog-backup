@@ -9,6 +9,7 @@ homepage = "https://github.com/knadh/hugo-ink"
 tags = ["minimal", "clean", "blog", "responsive", "personal", "simple", "minimalist", "portfolio", "dark"]
 features = ["blog", "Clean and minimal", "Responsive", "Social media links", "Syntax highlighting", "Dark mode"]
 min_version = "0.37.0"
+disqusShortname = "pinkr1ver"
 
 [author]
   name = "Kailash Nadh"
