@@ -1,0 +1,46 @@
+baseURL: /
+languageCode: en-us
+title: Yichong Wang
+theme: hugo-ink
+paginate: 5
+copyright: © Copyright notice
+pygmentsstyle: vs
+pygmentscodefences: yes
+pygmentscodefencesguesssyntax: yes
+googleAnalytics: UA-123-45
+disqusShortname: ink-demo
+params:
+  avatar: https://avatars.githubusercontent.com/u/50662650?v=4
+  disableDisqusTypes: page
+  featherIconsCDN: yes
+  mode: auto
+  social:
+    - icon: github
+      name: Github
+      url: https://github.com/PinkR1ver
+    - icon: mail
+      name: Mail
+      url: mailto:pinkr1veroops@gmail.com
+    - icon: instagram
+      name: Instagram
+      url: https://www.instagram.com/pinkcred1t/
+    - icon: rss
+      name: RSS
+      url: /index.xml
+  subtitle: Stu(dying) :D
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: All posts
+      url: /posts
+      weight: 2
+    - name: About
+      url: /about
+      weight: 3
+    - name: Tags
+      url: /tags
+      weight: 4
+taxonomies:
+  tag: tags
