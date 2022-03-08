@@ -9,7 +9,6 @@
 			<div class="posts">
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
-				{{ range $paginator.Pages }}
 					<div class="post" style="font-family:verdana;Segoe UI">
 						<h1>Hello.</h1>
             <p style="font-weight: 500; font-size: 2.2em">My name is Wang Yichong</p>
@@ -20,7 +19,6 @@
               I am from China and I can speak both Chinese and English. I am always using pinkr1ver as my net name. Feel free to ask me any question by email in the top right. &#x1F44F	
             </p>
 					</div>
-				{{ end }}
 				{{ template "partials/paginator.html" . }}
 			</div>
 		</div>
