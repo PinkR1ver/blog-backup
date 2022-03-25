@@ -3,7 +3,6 @@ title: In python cv2, you need use .copy() method in Numpy to create a copy
 author: Yichong Wang
 date: '2022-03-25'
 slug: []
-
 tags:
   - Python
   - opencv-python
