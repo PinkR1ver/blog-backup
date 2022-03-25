@@ -64,4 +64,8 @@ print(id(x))
 > 2410142026512
 
 ```
-Guess what, the result is that address of x and y is the same. I guess that when numpy has some calculation will alert numpy to create a real variable. If there is just '=', the numpy will not create real variable. So you need to use .copy() function to create copy of one variable, rather than '=' 
+Guess what, the result is that address of x and y is the same. I guess that when numpy has some calculation will alert numpy to create a real variable. If there is just '=', the numpy will not create real variable. So you need to use .copy() function to create copy of one variable, rather than '=' .
+
+I also ask this question in [stackoverflow](https://stackoverflow.com/questions/71606098/python-opencv2-for-loop-to-change-image-pixel-value?noredirect=1#comment126563050_71606098). This answer is so great. It introduce the concept about **shallow copy and deep copy**.
+
+![](ShallowCopy&DeepCopy.png)<!-- -->
