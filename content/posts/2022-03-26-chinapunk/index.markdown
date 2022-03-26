@@ -5,7 +5,7 @@ date: '2022-03-26'
 slug: []
 tags:
   - Picture
-description: Chian style cyberpunk in 2022. 😂
+description: China style cyberpunk in 2022. 😂
 ---
 
 # China punk
