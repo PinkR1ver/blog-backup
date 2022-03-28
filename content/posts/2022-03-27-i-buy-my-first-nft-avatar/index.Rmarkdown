@@ -7,13 +7,13 @@ categories: []
 tags:
   - NFT
   - avatar
-description: My first NFT from ETH chain
+description: My first NFT
 ---
 
 # Story
 Because Boring.
 
-Because in China, cryptocurrency is totally illegal. Even I am in Singapore right now, buy ETH from some *Centralized Exchanges* is totally impossible. Another way to buy ETH is *Decentralized exchanges (DEXs)*. It needs a lot of money to do this p2p exchange and I can not afford it. Luckly, I find a way to exchange BTC to ETH considering I have some BTC in hand (from *Zhu Yicheng*), using [changelly](https://changelly.com/).
+Because in China, cryptocurrency is totally illegal. Even I am in Singapore right now, buy ETH from some *Centralized Exchanges* is totally impossible. Another way to buy ETH is *Decentralized exchanges (DEXs)*. It needs a lot of money to do this p2p exchange and I can not afford it. Luckily, I find a way to exchange BTC to ETH considering I have some BTC in hand (from *Zhu Yicheng*), using [changelly](https://changelly.com/).
 
 Very interesting story, I find a NFT avatar have Hawaiian shirt and knitted hat which are two thing can represent me in the period of Singapore. So I think is it a real serendipity to meet it. So i decided to buy it. It is like:
 
