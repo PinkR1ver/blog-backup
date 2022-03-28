@@ -21,6 +21,9 @@ params:
     - icon: mail
       name: Mail
       url: mailto:pinkr1veroops@gmail.com
+    - icon: twitter
+      name: twitter
+      url: https://twitter.com/PinkR1ver
     - icon: instagram
       name: Instagram
       url: https://www.instagram.com/pinkcred1t/
