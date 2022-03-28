@@ -7,7 +7,7 @@ categories: []
 tags:
   - NFT
   - avatar
-description: My first NFT
+description: My first NFT from ETH chain
 ---
 
 # Story
