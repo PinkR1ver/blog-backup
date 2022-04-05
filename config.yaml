@@ -30,7 +30,7 @@ params:
     - icon: rss
       name: RSS
       url: /index.xml
-  subtitle: Stu(dying) :D
+  subtitle: Keepownselfer, go with the flow, stay up late
 menu:
   main:
     - name: Home
