@@ -68,7 +68,14 @@ Lastly, in conclusion,
 ### Appdenix
 [1] https://zhuanlan.zhihu.com/p/112176670
 
-*For MRI Image, i don't know there has the standard or not.*
+~~*For MRI Image, i don't know there has the standard or not.*~~
+
+
+# Replenish Apr 8, 2022
+In MRI, you can do normalization to every brain because in MRI, different machine, different machine parameter will give you real different intensity. So the absolute value of MRI image intensity is not every important, the most important value is contrast information, aka. the intensity histogram. So you can do normalization to every brain separately. 
+
+"The same histogram can maintain the internal tissue contrast of your original individual and reduce thealue difference between individuals" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      ---Shen (A researcher from Zhejiang University)
+
 
 
 
